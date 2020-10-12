@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">新商品開発WG</string>
+    <string name="btn_weather">天気予報</string>
+    <string name="btn_movie">動画</string>
+    <string name="btn_etc">その他</string>
+
+    <!-- 天気予報 -->
+    <string name="tv_weather_info_title">お天気情報</string>
+</resources>
