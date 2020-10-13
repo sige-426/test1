@@ -38,7 +38,7 @@
                 android:id="@+id/tvCityName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="TextView"
+                android:text=""
                 android:textSize="20sp" />
 
             <TextView
@@ -46,7 +46,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="TextView"
+                android:text=""
                 android:textSize="20sp" />
         </LinearLayout>
 
